@@ -1,0 +1,27 @@
+{
+  "name": "graphql-movieapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/In-Self-Improvement/graphQL-movieAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/In-Self-Improvement/graphQL-movieAPI/issues"
+  },
+  "homepage": "https://github.com/In-Self-Improvement/graphQL-movieAPI#readme",
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "graphql": "^16.7.1",
+    "node-fetch": "^3.3.1",
+    "nodemon": "^3.0.1"
+  },
+  "type": "module"
+}
